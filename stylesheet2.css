@@ -1,0 +1,91 @@
+#name{
+	float: left;
+	font-size: 450%;
+	font-family: impact;
+	padding-bottom: 20px;
+}
+#icons{
+	float: right;
+	margin-right: 0px;
+	border-left: 3px solid black;
+	padding-left: 10px;
+	/*margin-top: 10px;
+	text-align: center;*/
+}
+.topsection{
+	/*border-bottom: 3px solid black;
+	/*padding-bottom: 2px;*/
+	overflow: auto;
+}
+
+.bottomsection{
+	border-top: 3px solid black;
+	overflow: hidden;
+	width: 100%;
+}
+#sectionheader{
+	font-size: 200%;
+	font-weight: bold;
+	font-family: calibri;
+	text-decoration: underline;
+}
+
+#leftbox{
+	float: left;
+	width: 33%;
+	overflow: auto;
+}
+#centerbox{
+	margin: 0 auto;
+	width: 33%;
+}
+#rightbox{
+	float: right;
+	width: 33%;
+}
+
+body{
+	font-family: calibri;
+}
+
+#boxheader{
+	text-align:center;
+	vertical-align: middle;
+	text-decoration: underline;
+	font-size: 150%;
+	overflow: hidden;
+}
+#boxtext{
+	font-size: 120%;
+	text-align: center;
+}
+
+#rightsectinfo{
+	float:right;
+}
+#rightsectinfo2{
+	float:right;
+	font-size: 120%;
+}
+#sectinfo{
+	font-size: 120%;
+}
+#subheader{
+	font-size: 150%;
+	margin-left: 30px;
+	text-decoration:underline;
+	overflow: hidden;
+}
+#projectdesc{
+	margin-left: 75px;
+	overflow: hidden;
+	font-size: 125%;
+}
+#footer{
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	clear:both;
+	text-align:center;
+}
