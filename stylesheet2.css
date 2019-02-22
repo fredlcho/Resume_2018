@@ -1,7 +1,8 @@
-#name{
+#name {
 	float: left;
 	font-size: 450%;
-	font-family: impact;
+	font-family: Helvetica;
+	font-weight: bold;
 	padding-bottom: 20px;
 }
 #icons{
@@ -15,6 +16,7 @@
 .topsection{
 	/*border-bottom: 3px solid black;
 	/*padding-bottom: 2px;*/
+	/* font-family:impact; */
 	overflow: auto;
 }
 
@@ -26,7 +28,7 @@
 #sectionheader{
 	font-size: 200%;
 	font-weight: bold;
-	font-family: calibri;
+	font-family:Helvetica;
 	text-decoration: underline;
 }
 
@@ -45,7 +47,7 @@
 }
 
 body{
-	font-family: calibri;
+	font-family: Helvetica;
 }
 
 #boxheader{
@@ -58,6 +60,7 @@ body{
 #boxtext{
 	font-size: 120%;
 	text-align: center;
+	font-family:Arial;
 }
 
 #rightsectinfo{
