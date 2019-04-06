@@ -3,7 +3,7 @@
 	font-size: 450%;
 	font-family: Helvetica;
 	font-weight: bold;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 }
 #icons{
 	float: right;
@@ -26,7 +26,7 @@
 	width: 100%;
 }
 #sectionheader{
-	font-size: 150%;
+	font-size: 140%;
 	font-weight: bold;
 	font-family:Helvetica;
 	text-decoration: underline;
