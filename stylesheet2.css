@@ -7,8 +7,8 @@
 }
 #icons{
 	float: right;
-	margin-right: 0px;
-	border-left: 3px solid black;
+	/* margin-right: 0px; */
+	/* border-left: 3px solid black; */
 	padding-left: 10px;
 	/*margin-top: 10px;
 	text-align: center;*/
@@ -21,7 +21,7 @@
 }
 
 .bottomsection{
-	border-top: 3px solid black;
+	border-top: 2px solid black;
 	overflow: hidden;
 	width: 100%;
 }
@@ -29,7 +29,7 @@
 	font-size: 140%;
 	font-weight: bold;
 	font-family:Helvetica;
-	text-decoration: underline;
+	/* text-decoration: underline; */
 }
 
 #leftbox{
@@ -76,13 +76,13 @@ body{
 #subheader{
 	font-size: 125%;
 	margin-left: 30px;
-	text-decoration:underline;
+	/* text-decoration:underline; */
 	overflow: hidden;
 }
 #projectdesc{
 	margin-left: 75px;
 	overflow: hidden;
-	font-size: 110%;
+	font-size: 125%;
 }
 #footer{
 	position:fixed;
