@@ -71,7 +71,7 @@ body{
 	font-size: 120%;
 }
 #sectinfo{
-	font-size: 120%;
+	font-size: 100%;
 }
 #subheader{
 	font-size: 125%;
@@ -82,7 +82,7 @@ body{
 #projectdesc{
 	margin-left: 75px;
 	overflow: hidden;
-	font-size: 125%;
+	font-size: 100%;
 }
 #footer{
 	position:fixed;
